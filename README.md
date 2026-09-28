@@ -2,10 +2,10 @@
 
 <h3> How the it Work?</h3>
 <ul>
-  Enter the year: 
-  then, Enter the month:  
+  <li>Enter the year:  </li>
+  <li>then, Enter the month:  </li>
   <ul>
-    e.g:- 1 for January, 2 for February, 3 for March and so on.
+    <li> e.g:- 1 for January, 2 for February, 3 for March and so on. </li>
   </ul>
-  then, it geneate the calendar of given month.
+  <li>then, it geneate the calendar of given month.</li>
 </ul>
