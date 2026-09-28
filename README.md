@@ -1,6 +1,6 @@
 <h1> Python Program To Display Calendar</h1>
 
-<h3> How the it Work?</h3>
+<h3> How its Work?</h3>
 <ul>
   <li>Enter the year:  </li>
   <li>then, Enter the month:  </li>
